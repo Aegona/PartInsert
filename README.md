@@ -2,4 +2,5 @@
 	part.CFrame = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
 while true do
 	part.CFrame = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+ wait(1)
 end
